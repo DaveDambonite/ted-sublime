@@ -66,6 +66,14 @@
 				"buffer_size": 356,
 				"line_ending": "Windows"
 			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 1991,
+				"line_ending": "Windows"
+			}
 		}
 	],
 	"build_system": "",
@@ -327,6 +335,7 @@
 	"groups":
 	[
 		{
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -377,6 +386,32 @@
 						{
 							"syntax": "Packages/ted-sublime/ted.tmLanguage",
 							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": ".gitignore",
+					"settings":
+					{
+						"buffer_size": 1991,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								20,
+								20
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,

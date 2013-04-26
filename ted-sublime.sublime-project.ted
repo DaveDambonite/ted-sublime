@@ -16,6 +16,6 @@
 				[--pretty]
 			selector: [source.ted]
 			working_dir: [${file_path}]
-			shell: true
+			shell: false
 		}
 }
